@@ -1,0 +1,19 @@
+#dvc
+dvc
+dvc[gdrive]
+dvc[s3]
+
+# others
+pandas
+scikit-learn
+numpy
+
+# testing
+
+pytest
+tox
+flake8
+
+# webapp
+
+flask
