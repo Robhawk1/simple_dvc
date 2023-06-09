@@ -12,8 +12,9 @@ setup(
     long_description_content_type = "text/markdown",
     url="https://github.com/Robhawk1/simple_dvc",
     author_email="robhawk97@gmail.com",
-    package_dir={"":"src"},
-    packages=find_packages(where="src"),License="GNU",
+    #package_dir={"":"src"},
+    #packages=find_packages(where="src"),License="GNU",
+    packages = ["src"],
     python_requires=">=3.6",
     install_requires=[
         'dvc',

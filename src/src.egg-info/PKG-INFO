@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for dvc ml pipeline demo
+Home-page: https://github.com/Robhawk1/simple_dvc
+Author: Robhawk1
+Author-email: robhawk97@gmail.com
+License: UNKNOWN
+Description: # simple_dvc
+        simple_dvc repo for learning the dvc
+        
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
